@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel and Flutter projects**
 
-- 🌱 I’m currently learning **NextJs**
-
-- 💬 Ask me about **Laravel, PHP, Livwire, Flutter, Dart, Alpinejs**
+- 💬 Ask me about **Laravel, PHP, Livewire, Flutter, Dart, Alpinejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
